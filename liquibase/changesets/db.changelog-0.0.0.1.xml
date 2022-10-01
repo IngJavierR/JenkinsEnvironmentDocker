@@ -9,7 +9,7 @@
             <column name="ID" type="INT">
                 <constraints nullable="true" primaryKey="false" unique="false"/>
             </column>
-            <column name="DS_NAME_USER" type="VARCHAR(50)">
+            <column name="DS_NAME" type="VARCHAR(50)">
                 <constraints nullable="true" primaryKey="false" unique="false"/>
             </column>
         </createTable>
